@@ -1,4 +1,4 @@
-# DevOps Shack — Java Three-Tier ProjectOps
+ ###Java Three-Tier ProjectOps
 
 A real three-tier application with independently runnable components:
 
